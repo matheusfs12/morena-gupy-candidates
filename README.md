@@ -41,10 +41,6 @@ Este aplicativo é uma ferramenta para consultar a API da Gupy e filtrar candida
 
 2. No navegador, insira o token de autenticação e o `Job Step Name` para filtrar os candidatos.
 
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
 ## Licença
 
 Este projeto está licenciado sob a licença MIT.
